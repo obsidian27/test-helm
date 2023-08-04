@@ -4,10 +4,6 @@ entries:
   - apiVersion: v2
     appVersion: 1.12.3
     created: "2023-08-04T10:54:44.297701741+02:00"
-    dependencies:
-    - name: cert-manager
-      repository: https://charts.jetstack.io
-      version: 1.12.3
     description: A Helm chart for Kubernetes
     digest: ae78ddc8865f9fbd6b7f90a65637d5f7aae588d6be9e6f18f3e06c33bbe8bb00
     name: cert-manager
